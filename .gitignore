@@ -1,4 +1,8 @@
 
-.env
+
 nureva-one-51d27567923c.json
 
+.DS_Store
+.env
+
+__pycache__/
